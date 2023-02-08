@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot-crud-k8s
-          image: spring-crud-k8s:1.0
+          image: resadnv/spring-jenkins-docker-k8s
           ports:
             - containerPort: 8080
           env:
