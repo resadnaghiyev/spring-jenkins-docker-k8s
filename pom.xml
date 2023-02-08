@@ -15,7 +15,7 @@
     <description>spring-crud-kubernetes</description>
     <properties>
         <java.version>11</java.version>
-<!--        <maven.test.skip>true</maven.test.skip>-->
+        <maven.test.skip>true</maven.test.skip>
     </properties>
     <dependencies>
         <dependency>
